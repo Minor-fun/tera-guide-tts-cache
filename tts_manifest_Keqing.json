@@ -12,11 +12,11 @@
     },
     "zh_Hans": {
       "completed": false,
-      "generated_count": 94,
-      "hashes_gz": "H4sIAOUohGkC/xVSWwLAMAT7dxqPoo5TLfc/wmz7SUsjAmpEoBWgcRQbAnqK3lVAfuuWPaDNGnIZ6Aq+fAdY/c8O4GPLePGAlE4S4JS9Uh34XSk5D3g4qExAWBfzK5AVKKEKor1ysYMYSSYRyBSluQU5Z6TVhPJI10KQaxOsB4sMF0+txZeet8M6e1fUhlXzhycoYgv5GTAaCguUymNhg3KSLyPQhcJ3ZOihzDV9GUrLWQZGazijwbhxBE3ItnYzg4UE74dgJ+hiJzifRl80oKzxHPBVJEoObkona4F7n8xj4JF6TAfkQ77O4E9ZKxs2vqExgyC6N0IHnCs0/sSUiMcJIWSGkxwivGJdCM0XNI7FsKrHhnAZNTo3p1BpZhHvqqDOq9peRx4cPMIsBefgNmuC84gRR/Op2GIikMtblQ3S951aDHlit22CTJbd98L9F6K94BJK8ozpTuOzGxuu8pU1ta5NVkz1e4RkHsKdb/8y7n04XAH/YHPdBXPW2Knw3ONYILzo2jKEr+211oGiM449gpn22IIDzKe/sbecKB83VLCflz8Y8/w9qGP0+MmA3sueQ1WQ0X7QdhNHJrTLphzCdhPfu6HDo6c36NxUV2LAm2X1DSMrNPoH19jX+gD1t9XITQMAAA==",
-      "text_count": 1356,
-      "texts_hash": "sha256:518ed8dd44a6f177953daaffcbf010689b4b31ef847d4455a6d13d0c21c80e53",
-      "updated_at": "2026-02-05T05:21:41Z"
+      "generated_count": 103,
+      "hashes_gz": "H4sIAKtBhGkC/x1SWwIEMQT7dxqPljpOKfc/wpqd+UlpIwJud0ctQGUvVgS0kJ1rIvdarmwgy8rSB3R4uyQDpeCLd4G3fc8c+OpSXjwgpIMEOOSs2Ab8UkruAx4OKhUQ3ov5FchyFN8bZPeKxQaiJBFEIFOUJgpy72isScWVroUgqZOsB4sUF0+txUnP2mDdc8rrwKr53QI2YgvZHTAaCgs2XSEXHlDmCxs2B9lSgr1QOEfPvhSxpkFFablLQWkNuTcoN46ySenZ3cygLs7nIeh1SuwA49toiwaU9hgJtopkk4Ftv8zLwXSERC0w6xtxFexUL8sE89hX90Q8k2Oct3jIaQz2Nu+KhoNvKqiCE2W67wE3hcZDn+r+OMCFVHEuu8iUXAm+4zmNqz702/yAm4zQPZFbuGnm5S+34J5XdayuPLh4hVkK7sWj2gT3ESNOO7f8iIpA4IkmaYhlvTcrhJ2cogxx/bQeggjkv/MRLKen0/zWqK0gCSV4hptscVgv5Ng1q3UgN6eskZE6132EpVvzogEzSRkqyPnOJzXz4bA7fAsSKxfMefuJDc/MrzrC864jw/xaX++6UHTH1UcwWzPW4QC18WCGUkYUjxvK2e6LD4zB9h7UVXr8ZECfpc+gyknpPGjNwNELbXIohrBNxc5paDfv6RY6DlWKD3iz9HZgZPn2/kAq21o/HlFzEZ4DAAA=",
+      "text_count": 1357,
+      "texts_hash": "sha256:a28ed3b63f1b02c0a84f12b8ffa0c981d84f4e95823ff9e49c1bb807a00be634",
+      "updated_at": "2026-02-05T07:07:23Z"
     }
   },
   "voice_name": "Keqing"
