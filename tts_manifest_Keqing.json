@@ -2,14 +2,6 @@
   "hash_algo": "md5-8",
   "hashes_codec": "gzip+base64",
   "languages": {
-    "en": {
-      "completed": false,
-      "generated_count": 20,
-      "hashes_gz": "H4sIAIEehGkC/w3LuQEAIQgF0fxXI6dYjgj0X8JuNsGbRUbhyqAq9qEBqxzWHAiv1rf4jzMc5ZArTrUPVF/q+S/LukH6sFkrZilidqyURFJwRF6kqb3ljkyetnfwTm85xnjXvW4zag/dTYr+oXU7etRkWWBUpmT/ceLnLB/x26ZTswAAAA==",
-      "text_count": 1282,
-      "texts_hash": "sha256:5e6f719673e3f4252063e37a8a53f4014a5569c11887ff96a234536319264287",
-      "updated_at": "2026-02-05T04:37:21Z"
-    },
     "zh_Hans": {
       "completed": true,
       "generated_count": 1268,
