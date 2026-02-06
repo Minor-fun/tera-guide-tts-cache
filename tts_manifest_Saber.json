@@ -4,11 +4,11 @@
   "languages": {
     "ja": {
       "completed": false,
-      "generated_count": 10,
-      "hashes_gz": "H4sIAMB4hWkC/w3GwREAIQgDwD/VmIkolgNo+i/hbl+LuEnJjbFHk39KauQ1P71rVdkiesSSxQicOWlx30u57LzcDLg16JxPdgUgVn1+u6vPWQAAAA==",
+      "generated_count": 20,
+      "hashes_gz": "H4sIAGR5hWkC/w3NsQEAIQhD0T7TwKEI4wDC/iOc3ftNwnZDZjbEDpXIQ84Ux4WMkqgwttdJzcSLItOBptnqKWh7dN0DHV+Ruh66iYhhZOxrCWx95OkKu90xe+AdR4w3Yo/Z9wny5qI6hWLSfJMPsuV94A4zmyb6ZnzG9APq9RXQswAAAA==",
       "text_count": 1038,
       "texts_hash": "sha256:737e247e9f587e268c7394fd5b741537d8e4a0f4edadc01da28c7d78c88c0746",
-      "updated_at": "2026-02-06T05:14:40Z"
+      "updated_at": "2026-02-06T05:17:24Z"
     }
   },
   "voice_name": "Saber"
