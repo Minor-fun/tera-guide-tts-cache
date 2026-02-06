@@ -1,0 +1,15 @@
+{
+  "hash_algo": "md5-8",
+  "hashes_codec": "gzip+base64",
+  "languages": {
+    "zh_Hans": {
+      "completed": false,
+      "generated_count": 10,
+      "hashes_gz": "H4sIAP3nhWkC/w3IuREEMQgEQJ9oGB5RCgfEbP4h3LXZlmWXdsV4Fjwuqd5LpaQNKg4kGzOxLRWEJ0ruvnTNT3phqv955E68EKItufgBhytTc1kAAAA=",
+      "text_count": 1268,
+      "texts_hash": "sha256:b752728e9c68e9b89626fafb24788d4e25192ff3063b65e90f96a4341aa2793c",
+      "updated_at": "2026-02-06T13:09:17Z"
+    }
+  },
+  "voice_name": "jinsi"
+}
