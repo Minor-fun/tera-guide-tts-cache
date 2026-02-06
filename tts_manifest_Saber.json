@@ -4,11 +4,11 @@
   "languages": {
     "ja": {
       "completed": false,
-      "generated_count": 30,
-      "hashes_gz": "H4sIAPJ5hWkC/xXNyw1EMQhD0b2rgRB+5QQS+i9h3uyOLFmX4x6ZUSzdbSaENf4ydEPCqUUUUjPN50LGSEwYuqm2cUCzvawK39oUNrCK2G8a9vK8vg6b3Kdsf3iPiBgupZVnISg49xbEXpSVhrjvndFBsvoiceQ7LsGKoxOxlqBubWpv1Cwtz4dmsvpqH0Tly+MOM4fVh3YnTbxbZwXTh67iWJimVvlec/+68QPVXTXwDQEAAA==",
+      "generated_count": 40,
+      "hashes_gz": "H4sIAMV6hWkC/xXOuRUEMQhEQb+jASGucAQS+Yews14Z0O+T0rmqBo57ZEaxdLeZENb4y9ANCacWUUjNNJ8LGSMxYWz1u7Y2dFNt44Bme1kV9K6m2ITv7oMNLHdE3oZVxH7z4eV5fR02uU/Z/vAeETFcSivPgn+D6/XAe0XP2wgKzr0FsRdlpSHue2d0kKy+SBz5jkuw4uhErCU4I1/YHFSykB9D3drU3qi3+Cg7apaW50MzWX1pH0Tla0W/sM5buMPMYX+0O2ni3TormD50FcfCNLXK9z73rxs/QAt+kWcBAAA=",
       "text_count": 1038,
       "texts_hash": "sha256:737e247e9f587e268c7394fd5b741537d8e4a0f4edadc01da28c7d78c88c0746",
-      "updated_at": "2026-02-06T05:19:46Z"
+      "updated_at": "2026-02-06T05:23:17Z"
     }
   },
   "voice_name": "Saber"
