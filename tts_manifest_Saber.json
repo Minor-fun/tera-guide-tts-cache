@@ -4,11 +4,11 @@
   "languages": {
     "ja": {
       "completed": false,
-      "generated_count": 120,
-      "hashes_gz": "H4sIAKCAhWkC/xWTyxUAIQgD71SDgojlCEL/JWz2Ng/8YBKZl0+2Rbz4vrWM2Fq2PSbedw1mtK5OfyY0fBav2oB3pXvROJd1qtJ4rtIblfKQnkGjn830SXNpmgnTvM7jjUOz1FbaoNm7ji8lGWLxsFh2deYLEt+cIgvQW+Z2ksCgV9GK7hz3kVSvcypJ2lhMBqlYibKRrv2mriSNu9YwVFLtztm0lENtOCBXCwutkzssgtZVE9RovZnsyrRan9bZZNwjCzPjGrSsATFPPbTsJhQB7O4RJ8iOup+XZOGueBFZnVv5r+mjN0wBVcw8aEusOHfSPiL7lgJyz8qmndOzUXH2cVSFXCefOEbuUQIdyd8IieuAqturyfsY9Fl0xtqTZdPx1u3edO6JrfsShqvREOrU3eIDi6t9QC06jWFiKOBJBl5xp9UuBQi2BzPd1e5zCt2TAhdRiRgwQQGPzzMs7gGF+wIE8gIC7iMvi0Ke4+xBYRXQxynOEATOABtBWEUBL+7uoMCVD1VARtSYFA+S6WuADTvGgFDOnRTFSOHEyTUhwdg/vOWsFD1X7FOUgy3gBkCW4HpKOd3BqMj1XjgnF5xV2JSe59w8lHcvm2WUgV9g8DSj9kS8KHPsew/OeTv66QUkD8Z3yHLLgzxnBVd1/4D8IJkP09R4i57fOgutd4fAE6GXoQeRotdjDLcA5N68DuFZB/kNKiRB8vAP/eZyqvQ23EH14k4faOGgwK+l6vnkPKfGULuwuKeMh5wAtr6HP9ir9E65BGt1OEzp5FwCofr99G+vtjE0Px886283BAAA",
+      "generated_count": 130,
+      "hashes_gz": "H4sIAEmBhWkC/xWUURoAIQSE352GqHSciPsfYWff/o9WjGmZpw9ek3jyfXMu4tW612PifacwI3Vt+FtK/FJ56yCuNS15kci6liYkPopnbcC72j1JzmUbZiTPTXsjUh7aI0j6rZE+aKDKWso0rrM8OTTK1swlAJzdI2n0ruPTSEVXPHylk19UAXZ15gtS35yqE9DobztpYKprSEV3yn2ktcVlFKDnOZWkvViXCpmuUsM4NvcbNpMs7pyyEElbd4ymaRy2xAE5W1lpntyxImheW4oYzTeS3Zhm27M6mxa3ZGEcXIPUakCMUw+pdRNiAXa3xAlax9zPS1rhbhiNVp1b+Z/pYzeWAaqYWWhrzDh30D6q+5YBco/Kpp3DsxFxdjlmSm6DT5xF7lEKicmfhMZ1QNXt2eR9FoSadGTuwboB0ee//Xjbdm8698S2fQldljQUO3W3uuCrahfIRqfRVYgBnmZgnDtW7TKA4vNgpjvbfQyle1KxYEQiBNswwOPzFg63QOq+AIXOgIBD4KlJoc9RWyhWBYRyiiNw5l2ADY/MosBS7u6gwJUPUUBGlAyKB+3sNWDJOosBYZw7KYrh1IHKNaCF7B/edDaKHjP2KUrhFVgLQKfieko93cGI6PWeqJMTKzbsKz3PuXko755r1KIMvJSF5WbUHvAZZcq+96DO29HPLiBZGE8my1ceODwruKr7BxgJFn3opuRNen7rTKTe4TtdkLqiWI7Sy7ADk9FrEfEVgNyb5yHMd+DooII3NA//0G9Mp0rvhcuoXtzhghQKBZ44VY+n5zk1utuFwz1UHpwD2PYe3mnPsjv0Urv1uBIAN3Gsqc/DXyGEOjmnQsN+P/0Fq5eI5QdO1RbtkQQAAA==",
       "text_count": 1038,
       "texts_hash": "sha256:737e247e9f587e268c7394fd5b741537d8e4a0f4edadc01da28c7d78c88c0746",
-      "updated_at": "2026-02-06T05:48:16Z"
+      "updated_at": "2026-02-06T05:51:05Z"
     }
   },
   "voice_name": "Saber"
