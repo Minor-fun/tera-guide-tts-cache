@@ -4,11 +4,11 @@
   "languages": {
     "ja": {
       "completed": false,
-      "generated_count": 110,
-      "hashes_gz": "H4sIAACAhWkC/xWTyxVEIQhD91SD8hHLeSD0X8JkdvcACobIbLHZjdj4e2ZO7CPHHxOfzxYzUp/ueC60YjdbH8D7ZMZo3Y91q9J6oTIHkY6U2Ulrnu+KTdu03IVpf8HrrUu71a180Z7TN0xJlng+FMvpqXpJEodLxABzZJ8gSQz6KVI5U+t7JOMsLotUvEXZSe28rVak+ZktR6TUv72HTDnVVwDKRljIbp30TLJPXRAje7s4lMlGn/Y95DyrGqOiDVI+gNy3H1L+FYQAnJmVN8mvRtxX5BmheAh536/rXzNXv3QFdDPzoiNpeb9N54qcrxVQZ3cNndpRg0hwrKsqFLr55nWK1/2NDcVchwhGd9nZLIdujJ6IofvdPHo+wii9BrLc/o7EQnFPLGhDd9A6lwKeVGLmb3ufVoDgeDLTZxOxt9B3S7AqRDIXJFfA4/scxbOg53wAgZiAxIphCqOUF7h7UXon1AjKuwSucsDBtq0pofx3JinR8iFK+aCLvgH48usMSOU6RdkMh21c2BsvX+cPz4KVcrbluU212BOSA8QEXankziQjIl+M4Z4yrE+xi/qO+W6nShjbsa+qdb7v4tQrXgw/V4fXhSGrEwaAtV58fW2GXqVeOIDerLXCE1DnsF3CgBd2S2osTuryH+ZtC+qK8cZg/fLbsZDCRYm/RT37yX1Bg86nUTxb1sOiAUffw08Za/22fITd6AqoOsVlgifP+9P/eI+vpfUDn640F90DAAA=",
+      "generated_count": 120,
+      "hashes_gz": "H4sIAKCAhWkC/xWTyxUAIQgD71SDgojlCEL/JWz2Ng/8YBKZl0+2Rbz4vrWM2Fq2PSbedw1mtK5OfyY0fBav2oB3pXvROJd1qtJ4rtIblfKQnkGjn830SXNpmgnTvM7jjUOz1FbaoNm7ji8lGWLxsFh2deYLEt+cIgvQW+Z2ksCgV9GK7hz3kVSvcypJ2lhMBqlYibKRrv2mriSNu9YwVFLtztm0lENtOCBXCwutkzssgtZVE9RovZnsyrRan9bZZNwjCzPjGrSsATFPPbTsJhQB7O4RJ8iOup+XZOGueBFZnVv5r+mjN0wBVcw8aEusOHfSPiL7lgJyz8qmndOzUXH2cVSFXCefOEbuUQIdyd8IieuAqturyfsY9Fl0xtqTZdPx1u3edO6JrfsShqvREOrU3eIDi6t9QC06jWFiKOBJBl5xp9UuBQi2BzPd1e5zCt2TAhdRiRgwQQGPzzMs7gGF+wIE8gIC7iMvi0Ke4+xBYRXQxynOEATOABtBWEUBL+7uoMCVD1VARtSYFA+S6WuADTvGgFDOnRTFSOHEyTUhwdg/vOWsFD1X7FOUgy3gBkCW4HpKOd3BqMj1XjgnF5xV2JSe59w8lHcvm2WUgV9g8DSj9kS8KHPsew/OeTv66QUkD8Z3yHLLgzxnBVd1/4D8IJkP09R4i57fOgutd4fAE6GXoQeRotdjDLcA5N68DuFZB/kNKiRB8vAP/eZyqvQ23EH14k4faOGgwK+l6vnkPKfGULuwuKeMh5wAtr6HP9ir9E65BGt1OEzp5FwCofr99G+vtjE0Px886283BAAA",
       "text_count": 1038,
       "texts_hash": "sha256:737e247e9f587e268c7394fd5b741537d8e4a0f4edadc01da28c7d78c88c0746",
-      "updated_at": "2026-02-06T05:45:36Z"
+      "updated_at": "2026-02-06T05:48:16Z"
     }
   },
   "voice_name": "Saber"
