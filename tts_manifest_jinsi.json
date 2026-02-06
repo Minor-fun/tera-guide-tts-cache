@@ -4,11 +4,11 @@
   "languages": {
     "zh_Hans": {
       "completed": false,
-      "generated_count": 20,
-      "hashes_gz": "H4sIAOrohWkC/xWNyw1EIQwD766G/KGcJOT1X8KyPlkja0zR0+MXtNmONIMt+Awf8MM0LrAleWcNjItCnWBJVXoToUNiFIj4siodccrSzXFumyz7kJd4rbcpjc+MHZVnf74JTUuKdaGf5J1utHGLykW/7PyXmVvaiqFkm0s/M0djhbMAAAA=",
+      "generated_count": 30,
+      "hashes_gz": "H4sIAKXphWkC/xVOuREEMQjLVY15vZSDAfdfwvkUafSNaNfUeIM+tpBisG2O4QB3yUg2+Pk0LhA2Ze6BlL/eNGy9wKyB8aGtTrCkc7QTW4fEaGPvm+ekY8exdHOECGtoIXKWkW1El8myi8z1uV9CNvFar350XzN2nIzv+kcoWnJYF+rtv6sfyrhEpVFeq+Pt1MOXf+XdPFqKvt7XJjGUbNOE0bnR65EIzt39A4p2LNENAQAA",
       "text_count": 1268,
       "texts_hash": "sha256:b752728e9c68e9b89626fafb24788d4e25192ff3063b65e90f96a4341aa2793c",
-      "updated_at": "2026-02-06T13:13:14Z"
+      "updated_at": "2026-02-06T13:16:21Z"
     }
   },
   "voice_name": "jinsi"
