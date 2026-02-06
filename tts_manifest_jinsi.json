@@ -4,11 +4,11 @@
   "languages": {
     "zh_Hans": {
       "completed": false,
-      "generated_count": 70,
-      "hashes_gz": "H4sIAOvshWkC/xVRyREAIQj7Uw2HgJQjIv2XsKx+MhpCCKgRgfYAjeOxIaCn6F0PyO+7zwpos4ZcBrqClXWA1X92AB9bxosHpHSSAKfslerAdeXJKeDRoGcCwrqY64GsQAlVECPJJAKZXqS9QK4NfAXr7P3ibVhvbniC4qg9fKCc5MsIdKHwHR09lLnGmKG0nGVgtEYhGsy2djODhQTvQrATdLETfJw1ngO+HomSg5vSybfAvU/mMfBIPaYDspCvM3gp68uGjYVjwyDoXCF2CBFesS6EZgXNODGl6rEhXHyRzst5qDT5RF0V1IZzcJs1wSlixLFxXmwxEcjlrcoGeWK3bYJMlt33wiWU5IVwx/nsYsNVvrKk4NrFilG+R0iGD3fOPv/XLRyJgD/jXHdBRb8tU15t1foOPDozYBFM8B2FA4L91Iz8Ivh4FbxjVFwyoPeycmiXTTnkdhPfu6HDo8cldNas2TdMp9Do/QHv+3NvdQIAAA==",
+      "generated_count": 80,
+      "hashes_gz": "H4sIAMTthWkC/xVSyRHAIAj8Uw2HgJQjIv2XEKKfHdQ9QNSIQHuAxvHYENBT9K4H5PfdZwW0WUMuA13ByjrA6v/tAD62jBcPSOkkAU7ZK9WB68qTU8DDQc8EhHUx1wNZgRKqINorFzuIkWQSgYwoTRUkj/RbCHJtaq9gkeHikVh8qbwd1tn7xduw3uzwBMVRfPhAOcmXEehC4TtaeihzjXlDaTnLwGgNQzSYbe1mBgsJ3oVgJ+hiJzifRl804FnjOeDrkSg5uCmdfAvc+2QeA4/UYzogC/k6g5eyvmzYWENjBkHnCk3kEDLDOQoRXrEuhGYFTfYYDvXYEC6jrVM5D5Wmq1FXBbXhHNxmTXCKGHH8nBdbTARyeauyQfq+w8yQJ3bbJshk2X0vXEJJnvbeyTKj3HCVrywpuHaxYiTuEZK5D3fWPv/RLRyKgH8gue6Cin5b5nm1Ves78OhM5CKYmXQUDjAfy9OfF+ynJvKL4ONV8I5RccmA3svK4b0go13QdhPHC7TLphyedhPfu6HDoycAdNb8G98wJkKj9we8dvJVzwIAAA==",
       "text_count": 1268,
       "texts_hash": "sha256:b752728e9c68e9b89626fafb24788d4e25192ff3063b65e90f96a4341aa2793c",
-      "updated_at": "2026-02-06T13:30:19Z"
+      "updated_at": "2026-02-06T13:33:56Z"
     }
   },
   "voice_name": "jinsi"
