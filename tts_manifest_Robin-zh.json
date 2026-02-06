@@ -4,11 +4,11 @@
   "languages": {
     "zh_Hans": {
       "completed": false,
-      "generated_count": 37,
-      "hashes_gz": "H4sIAJlehmkC/xVPyxFEMQi6U03UmDzL8Zf+S1iXEwMDDHSzs0+BPlaTZLBetmYDV0qLF3h86iMQ1s1cDTkkEUSQiZO+DckztAu6JtKroRx09yGoU8Qux3GjXC9wd5MoXdz7PMIProX60QMT4W07YRplNM02sl77YN5LSS+sUmXpgxfxWtMT+z5VPgi3752PkLQkeC/kDM2dD6mcsqWQJ1fZxNOFhGWswed/ax7Ezo16p562o8lZuwi9+1mtIWbstwrvykcxyrNrb/Z+Ds6dTkwBAAA=",
+      "generated_count": 47,
+      "hashes_gz": "H4sIAKFfhmkC/xVQuREEMQjLqca8XsoxX/8lHAeJZoSE4NxgTWnAm51tBfiROicB6SVvcqBKbn4FtDy2MTCpEFUDix92VWBDjkAEXh/UEeC0hV0gve03QM+a9GlQCrxiCCqHKVeuDyOkHhiKvM8HzD6dIQJ7jnkm4EojK164d17EM7ge+kwXlJJ2DDgziUuCa5TjxvDl9foH/voo6gWvVD468ArpnDUMuaNKBvH8G/sQEg8HyYHcjfuED1IpWbggLU/5yvMxMvFSW9/7U3tuSAqUT3+8qhqr0X7Q+DZhIewzxusscKd3q6CfYVHxgvnE6sJc/jB2Zvz6bJQfboc3U6YBAAA=",
       "text_count": 1268,
       "texts_hash": "sha256:b752728e9c68e9b89626fafb24788d4e25192ff3063b65e90f96a4341aa2793c",
-      "updated_at": "2026-02-06T21:35:21Z"
+      "updated_at": "2026-02-06T21:39:45Z"
     }
   },
   "voice_name": "Robin-zh"
