@@ -4,11 +4,11 @@
   "languages": {
     "zh_Hans": {
       "completed": false,
-      "generated_count": 30,
-      "hashes_gz": "H4sIAKXphWkC/xVOuREEMQjLVY15vZSDAfdfwvkUafSNaNfUeIM+tpBisG2O4QB3yUg2+Pk0LhA2Ze6BlL/eNGy9wKyB8aGtTrCkc7QTW4fEaGPvm+ekY8exdHOECGtoIXKWkW1El8myi8z1uV9CNvFar350XzN2nIzv+kcoWnJYF+rtv6sfyrhEpVFeq+Pt1MOXf+XdPFqKvt7XJjGUbNOE0bnR65EIzt39A4p2LNENAQAA",
+      "generated_count": 40,
+      "hashes_gz": "H4sIAHjqhWkC/xWPyQ1EMQhD764mrPmUQwLpv4RhOFm28JNp377tBfrYQi6DbXM0B7iutGSBJ6d2gbApczVEY0mYQZzkHCLI9JA9hVwf2QVb89urYXxoqxMs6RythJNqfvHgGXTXO9jaJEYbe788Jx07jqWbI0RYQy/CTgUNIsa2HR8iexnZRtQ1WfaQuT73R8giXmsKj+5nxo6T8T3/CJeWHNaFO8RZ+uEaX1EpXL+rYnpuCgnLRHNf/qPZdPQq6nk960RTsnURWvtFrRERnLsKb8tHZ5wXO97wfhj23NNnAQAA",
       "text_count": 1268,
       "texts_hash": "sha256:b752728e9c68e9b89626fafb24788d4e25192ff3063b65e90f96a4341aa2793c",
-      "updated_at": "2026-02-06T13:16:21Z"
+      "updated_at": "2026-02-06T13:19:52Z"
     }
   },
   "voice_name": "jinsi"
