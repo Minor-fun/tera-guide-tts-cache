@@ -4,11 +4,11 @@
   "languages": {
     "zh_Hans": {
       "completed": false,
-      "generated_count": 78,
-      "hashes_gz": "H4sIAE3ihmkC/xVSyxVEMQTdq8bfU05E9F/CmGTjIPdD0DIT/QE652NHwCixqw8o7rvPG+hjS7kMdAW7+gBb/LsT+Lg6K29QMkUCXPJpWQD3lSengReDngsImzL3A9FESTMQGy3lAHGSKiKQJaXNgtSReYog1zf3GpQclZdC+VLHBOj5vpfvA317MwoMl/HhA+OiUCcwReG7XHaoSle8o4wcdXDSRcgB989mmMFTkr9G8JN0cQpi1Q+eA6GPxCgg3OjUU4iYU3UcIsuO2wbVyDcYoo3t1cCHjSvDIelcoXWaQu64pRRhTb2QVp20lnMxLPKDDAkl28x5aLTDzL4maAPn4Oc+BKeJEVfPefmJi0BpjBk71Mlv/COoYvnmXriEUrzDvGthF/fBNb6i0nD9Yuci3yMk2w93z3f+pdu4EAn/8Zdehc55n+zzHu+xd+DRWadNsBuYbNzAY5XuWF5ynF6nL5NPdMM7Ts0tG8yn3gHvJTl9DeO3cLXAhHxUizPhEt83MBk5awCmen9JfLAi0nK+H6N+m129AgAA",
+      "generated_count": 88,
+      "hashes_gz": "H4sIACLjhmkC/xVSQQLAMAS7e01R1HOq+P8TZtslNU1ItsTdlxYsJS/SBcuC5e0CtFevNAEPifMjwMcrIy+Q2N/tQFe30qYBwR3IQMFnhxhQPi6+CTQcWMrAJJsoC3j7YhcBlt6xyYAVOQIReERxqsBxuWsv4KdTq4SNujaNxKaHaW2w7znldWDXvG4BskaxVoFQoG1FkL2Y3mjJxYg9w+vi5rsVFPcweINSr1GdT3qkmwjU2enkAr2Ob3WA0e1lGweU9roXbBeyoIGp4I3aYNY34iqYh1yVAZGLnhFYCklFw1k5NKrgeB/j7O7D7EkBzqi6pseZaft+4BLpOG74kIn5ATeeIWQqt5bg+Oz5hJfMrTpWlxPuXUe1EW4irTUT3vLDygyxrUVIIey8kSCI66f1IEQQn34P3p9xW8HDxUETwZs1J+4DT+jxHomn0+Uj+i4jz0V485xf/b1cw+Xwhxb7bZiz+AmBNPOrviC96/AQZmu21IXCO/4kwiQ5bqwBarPWmFmGGEkN5WQ34wfjmWVCXcWk5AF9tqZBlaPiSWh9sWZMaOODMYRtynZOQ7t5z27QkfPb2YGZxsX7B0/J9v4AIrakPRcDAAA=",
       "text_count": 1249,
       "texts_hash": "sha256:348512f003e2a3f9788230ffa36a1fd17959eeae5c574753c31fc2726943cd1a",
-      "updated_at": "2026-02-07T06:57:17Z"
+      "updated_at": "2026-02-07T07:00:50Z"
     }
   },
   "voice_name": "barbara-zh"
