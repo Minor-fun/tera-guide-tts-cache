@@ -4,11 +4,11 @@
   "languages": {
     "zh_Hans": {
       "completed": false,
-      "generated_count": 18,
-      "hashes_gz": "H4sIANXdhmkC/xWNxw0EQRAC/0TTdkw47Tb/EG6OFypUgndNzWrwEb9aAvEtd+RCHuZZCieNHhq4JG9bDA/OtA5sG1bnjX3TY/nC7XIl/xDNQvSmjHu+dRjFpClGqKe8i4NyKTVt1MuJf5nptDIMh/g0/wCMIYkGoQAAAA==",
+      "generated_count": 28,
+      "hashes_gz": "H4sIAGPehmkC/xWOyQ1EMQxC71QTr/kux7Gd/kuYDKcnBAjaNTXeoI8tpBhsm2M4wM+mcYGwKXMPpPzFp2FLsmcNjA9tdYIlnaOd2DokRht73zwnHTuOpZsjRFhDC5GzjGwjukyWXWSuz/0SsonXevWj+5qx42R81z9C0ZLDulBv/z38UMYlKo16+vIP793RUvT1vjaJoWSbJozOjV4PIjh39w/uR7vC+wAAAA==",
       "text_count": 1249,
       "texts_hash": "sha256:348512f003e2a3f9788230ffa36a1fd17959eeae5c574753c31fc2726943cd1a",
-      "updated_at": "2026-02-07T06:38:13Z"
+      "updated_at": "2026-02-07T06:40:35Z"
     }
   },
   "voice_name": "barbara-zh"
