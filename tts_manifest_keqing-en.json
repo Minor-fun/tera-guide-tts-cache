@@ -4,11 +4,11 @@
   "languages": {
     "en": {
       "completed": false,
-      "generated_count": 30,
-      "hashes_gz": "H4sIAIzNh2kC/w3OyQ0AMQgDwD/VcAYoZ0mg/xKWHxrJNkhGcZQBv75G9QGZ8E0doPf4DA0w4mdFDaySrLVyYigjgT9izhVhbL3Ie+RwvAPyyaHnCaq3NHfC6n1BesFZXwwqxHhgSUFRcMSul6ldPAeqeNpuwkVTqedw43TjW8l2SWO43znva4bnQ5+TQm/Uug/0iIv7yqgJWsA+3O1UMCrzxFd0Cw0TJmObWH6Rp/RBDQEAAA==",
+      "generated_count": 40,
+      "hashes_gz": "H4sIAHfOh2kC/w2QyxEAQQQF76Lxm0U4DJN/COvW1Yr3CtIh/5QBc+6hSqAjfEMfUDd/jx4wYp6iAVYJ1lrz+aPwAHbWjFpIYo4dCePoRV6Ix94fSJJyX12Qj9oCVG9pbOipTie9YKztDxXcJYQmwJ85lhSEP7emgsRCDklIHZqOgUIql90qcnbf8nX0XPw+qOI35wZcPCrVBte/Gew1MSZxGG5+X+cslLULGbQ9SiOFvt+45gezx87MAkly3oF5YmKmC3oEj8O+Ysa24VN5LbZGN+tgwAvfEJYfnlAm5GcBAAA=",
       "text_count": 1173,
       "texts_hash": "sha256:b969c5290f39198461126ea89ff0c47b7078014c3219c1bf08eb1e6f785689ff",
-      "updated_at": "2026-02-07T23:41:00Z"
+      "updated_at": "2026-02-07T23:44:55Z"
     }
   },
   "voice_name": "keqing-en"
