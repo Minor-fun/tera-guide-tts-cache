@@ -4,11 +4,11 @@
   "languages": {
     "zh_Hans": {
       "completed": false,
-      "generated_count": 23,
-      "hashes_gz": "H4sIAGwzh2kC/xWOyQ0EMRAC/0TjPj0Opy/nH8J6eZVQCUG7psYb9LEdKQbb5jN8wK+mcYGwKXMPbEn0rAectNUJFpSpHdg6JEYbe9/IDMc+aeHmOCKsRwuny2TZRTTxWk9O3deMHRnnu/4RipYk60K9tXfjQxmXqDTq5Ys/zHRqKfp6X5vAULBN0w9WCpKKzgAAAA==",
+      "generated_count": 27,
+      "hashes_gz": "H4sIAHNZh2kC/xWOyQ1EMQxC71QT7z/lOLbTfwmT4YQQoEdRU+MN+ti2FIMteA9v8ItpXCBsytwDKX/1adiS7FkD40OhTrCkc7QToUNiFIi4eU46Yh9LN8cWYd1a2DnLyAK7y2TZReb63C8hm3itNz8a14wdJ/d3/SMULTmsC/X+H+GHMi5RadTTl3/z6I6Woq/3tUkMJds0YXTu7kU/guG7KfIAAAA=",
       "text_count": 1249,
       "texts_hash": "sha256:348512f003e2a3f9788230ffa36a1fd17959eeae5c574753c31fc2726943cd1a",
-      "updated_at": "2026-02-07T12:43:24Z"
+      "updated_at": "2026-02-07T15:25:38Z"
     }
   },
   "voice_name": "keqing-zh"
