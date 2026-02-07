@@ -1,0 +1,15 @@
+{
+  "hash_algo": "md5-8",
+  "hashes_codec": "gzip+base64",
+  "languages": {
+    "en": {
+      "completed": false,
+      "generated_count": 10,
+      "hashes_gz": "H4sIAKPLh2kC/w3HuQHAMAgEsP6mIXyGcQyB/UdI1EmYRpsYwrkcr0O1S1MZsSeopFBPcERdlKk1uaNzjqQx5p/NOFZlXzmBzbjuLB9oO3r7WQAAAA==",
+      "text_count": 1173,
+      "texts_hash": "sha256:b969c5290f39198461126ea89ff0c47b7078014c3219c1bf08eb1e6f785689ff",
+      "updated_at": "2026-02-07T23:32:51Z"
+    }
+  },
+  "voice_name": "keqing-en"
+}
