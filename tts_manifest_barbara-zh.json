@@ -4,11 +4,11 @@
   "languages": {
     "zh_Hans": {
       "completed": false,
-      "generated_count": 68,
-      "hashes_gz": "H4sIAKHhhmkC/xVRyREAIQj7pxoOASlHRfsvYVn9ZDSEEMgyk/yCXPKKEyi22hkXHOee6wWeYqlHwEepdi2Ixc9OyPLhMgSydY5tAamjV1dBupSvK1RsiNSFjiRNM6iz7s0M7RZsb0CPN7yFsea8eSfG7ZuxYdRqly5MNsdwhg1SOa1ji/ce7cdJn67hcB6tkA/u094TgaemzCL4Sj70NqKdPVoLMS6rcSDceO07EPHW3ssRuW25NdhFckIQZWJ3P0wqahuO5HWUJZCqMnIcpO1K7nGySy1yIkNjsPXLumTc+WQdU7KHtWi6P8YqFqK2sW5OdVXsEc9MHHvlfD4Ze4vOdw4Ok24ZhNPOewUTx+To0MLxQ5WtfJayNh+nz1z/1ylqicSf8R5noPLdqV1ez+vZXbi8esBidPAvixpkyooq3OVcUtrgzeEVeKGTd3NeuMacDy8jX5vD29XbjYlukJZvftdfMfhjAgAA",
+      "generated_count": 78,
+      "hashes_gz": "H4sIAE3ihmkC/xVSyxVEMQTdq8bfU05E9F/CmGTjIPdD0DIT/QE652NHwCixqw8o7rvPG+hjS7kMdAW7+gBb/LsT+Lg6K29QMkUCXPJpWQD3lSengReDngsImzL3A9FESTMQGy3lAHGSKiKQJaXNgtSReYog1zf3GpQclZdC+VLHBOj5vpfvA317MwoMl/HhA+OiUCcwReG7XHaoSle8o4wcdXDSRcgB989mmMFTkr9G8JN0cQpi1Q+eA6GPxCgg3OjUU4iYU3UcIsuO2wbVyDcYoo3t1cCHjSvDIelcoXWaQu64pRRhTb2QVp20lnMxLPKDDAkl28x5aLTDzL4maAPn4Oc+BKeJEVfPefmJi0BpjBk71Mlv/COoYvnmXriEUrzDvGthF/fBNb6i0nD9Yuci3yMk2w93z3f+pdu4EAn/8Zdehc55n+zzHu+xd+DRWadNsBuYbNzAY5XuWF5ynF6nL5NPdMM7Ts0tG8yn3gHvJTl9DeO3cLXAhHxUizPhEt83MBk5awCmen9JfLAi0nK+H6N+m129AgAA",
       "text_count": 1249,
       "texts_hash": "sha256:348512f003e2a3f9788230ffa36a1fd17959eeae5c574753c31fc2726943cd1a",
-      "updated_at": "2026-02-07T06:54:25Z"
+      "updated_at": "2026-02-07T06:57:17Z"
     }
   },
   "voice_name": "barbara-zh"
