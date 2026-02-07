@@ -4,11 +4,11 @@
   "languages": {
     "zh_Hans": {
       "completed": false,
-      "generated_count": 47,
-      "hashes_gz": "H4sIABk+h2kC/xVQuREEMQjLqca8XsrhMf2XcBwkmhEIoXOTteQB3nr1rAE/UuciIL3kjxyoix9HAy2PzxiYVIj6AYsfdlVgQ85EBF4d1BHgsoWvQd623wQ9K/LOA6XEK4agcphq1zUwUzrAUCQ+HzD7dIYILBzrTMKVh6x44d6JzDC4nhqmC1pJXw44M4lLgWu249rw5fX6Bx7vKOoF71I+OhBxPrNBiEY6Z5VT7qiSQYZ/Yx9C4eEkOVB7etP4oJSKhRvK6rSvTgUjEy+19cWf2r9TSqDHevQFPIx12AgbxnifBe4UtxteGDY1L5hPrC/M5Q9zZ8avzzr4ARnxkgmmAQAA",
+      "generated_count": 81,
+      "hashes_gz": "H4sIANRJh2kC/xVSWxYAIQT9t5oQspyE/S9hTP3co7oPWuLuSwuWkhfpgmXB8nYB2qtXmoCHxPkR4OOVkRdI7L/tQFe30qYBwR3IQMFnhxhQPi6+CTQcWMrAJJsoC3j7YhcBlt6xyYAVOQIReERxqsBxuWsv4KdTq4SNujaNxKaHaW2w7znldWDXbLcAWaNYq0Ao0LYiyF5Mb7TkYsQe87q4+W4FxT0M3qB6pJsI1Nnp5AK9jm91gNHtZRsHlPa6F2wXsqCBqeCN2mDWN+IqmIdclQGRi54RWApJRcNZOTSq4Hgf40R2RtU1R85M2/cDl0jHye7DIeYH3Hi0ZSq3luB01fMJL5lXdawuJ9y7jmoj3ERaa4zd8sPKDLGtRUgh7LyRIIjrp/UgRBCffg8eLg6aPr8JNTM98IQe72F++lb6aL3LyHMf3qzzi76Xaygc/snEfhvSuw7P82zNlrpQeCd7Isxw2nMNUBvv06hyspuTvdzpWibUVUxKHtBnaxpUOSqehNYXa7xAGx+M4WlTtnMa2s17AkBHzgeyA2PCxft8YZbg0tgCAAA=",
       "text_count": 1249,
       "texts_hash": "sha256:348512f003e2a3f9788230ffa36a1fd17959eeae5c574753c31fc2726943cd1a",
-      "updated_at": "2026-02-07T13:28:57Z"
+      "updated_at": "2026-02-07T14:19:00Z"
     }
   },
   "voice_name": "kamisato-zh"
