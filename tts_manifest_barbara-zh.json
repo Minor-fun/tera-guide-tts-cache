@@ -1,0 +1,15 @@
+{
+  "hash_algo": "md5-8",
+  "hashes_codec": "gzip+base64",
+  "languages": {
+    "zh_Hans": {
+      "completed": false,
+      "generated_count": 8,
+      "hashes_gz": "H4sIAB7dhmkC/wXBwREAIAgDsH+nsQhyjgPS/VcwsUi7sgvTGepsxNo1WkJYM/0QUez2KaSLO5h40rQ/h1gWGn4BwRo1RwAAAA==",
+      "text_count": 1249,
+      "texts_hash": "sha256:348512f003e2a3f9788230ffa36a1fd17959eeae5c574753c31fc2726943cd1a",
+      "updated_at": "2026-02-07T06:35:10Z"
+    }
+  },
+  "voice_name": "barbara-zh"
+}
