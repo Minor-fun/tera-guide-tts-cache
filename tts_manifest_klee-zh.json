@@ -4,11 +4,11 @@
   "languages": {
     "zh_Hans": {
       "completed": false,
-      "generated_count": 2,
-      "hashes_gz": "H4sIAAzwh2kC/zMyNTeyTDWy5DJNNExKMklJBABwNvy2EQAAAA==",
+      "generated_count": 15,
+      "hashes_gz": "H4sIAAL1h2kC/w2MtxHAMAzE+p+GUWEcJu8/glUChwPvmprVEN9yRy7kEc9SOGn00MAledtieHCmdWDbsDpv3C5X8g/RLETPZNzzrcMoJk0xQr3ynQ/KpdS0UTOdVobhEJ/mH7LbwgeGAAAA",
       "text_count": 1249,
       "texts_hash": "sha256:348512f003e2a3f9788230ffa36a1fd17959eeae5c574753c31fc2726943cd1a",
-      "updated_at": "2026-02-08T02:08:12Z"
+      "updated_at": "2026-02-08T02:29:22Z"
     }
   },
   "voice_name": "klee-zh"
