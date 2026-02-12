@@ -1,0 +1,15 @@
+{
+  "hash_algo": "md5-8",
+  "hashes_codec": "gzip+base64",
+  "languages": {
+    "en": {
+      "completed": false,
+      "generated_count": 50,
+      "hashes_gz": "H4sIADe8jWkC/xWQyQ1EMQhD71TDnlAO/ED/JQxzezKSbYxkdF0ZMPszqgRsnxxPIKTxkAEy4S904T32oQFGTCtqYJVgrVX8DsUN4MuaUQtJzLEnYWz9kEFSnN4JUP1KY0O1v8DRA1YvL+kHfvJ0m8NhfXdQ4XhjrSPcys1+BnfOxZKCeP5v+CCxkEMSUpv6RUO+d6Xsg0KqK+tTdPmuB5SpfegOVTxtX8CHplLvwHe9G98q0UfCGL50f9kM7wzlIYX3eV9Nh14P614gSc6voU35TH/QcekWEXTOyOcBXbYzF0KPHDlHF9QE7cLu1n2oYFTmyVlFt4ZhLASL7juzS9nYgblfPQ6HibvVWH7uUWsIwQEAAA==",
+      "text_count": 1135,
+      "texts_hash": "sha256:2e975d06a3f8527922ea36a1f7d2653d1560cf1b1978480773df9d7b1c0e76a5",
+      "updated_at": "2026-02-12T11:40:39Z"
+    }
+  },
+  "voice_name": "kamisato-en"
+}
